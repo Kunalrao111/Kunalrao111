@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Kunal, a passionate Full Stack Web Developer with a keen interest in creating dynamic and user-friendly web applications. I love collaborating on exciting projects and learning new technologies. When I'm not coding, you can find me exploring the latest trends in tech or diving into a good book. Let's connect and build something amazing together!
+👋 Hi there! I'm Kunal, a passionate Full Stack Web Developer with a keen interest in creating dynamic and user-friendly web applications. I love collaborating on exciting projects and learning new technologies. Let's connect and build something amazing together!
 
 
 ## 🌐 Socials:
